@@ -1,0 +1,3 @@
+Drag&Drop, 15, 2, clear, isgun
+Keyboard, 4, 3, truth, ismail
+Multiplayer, 1, 2, crisp, Player 1
